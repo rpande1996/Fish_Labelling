@@ -60,4 +60,5 @@ Loss:
 
 ## Build
 * Download dataset from this [link](https://drive.google.com/file/d/1_KYFsct999uptDeggTRjm-En8aVS4Lmy/view?usp=sharing)
+* Replace the ```dir``` with your working directory
 * Run all cells
